@@ -1,6 +1,5 @@
 body {
-  background-color: #66ff9c;
-  color: black;
+  background-color: #3ded37;
 }
 
 .familiar {
@@ -44,5 +43,23 @@ nav {
   margin-left: 30px;
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+.carousel {
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.header {
+  color: #36A0FF;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36A0FF;
 }
 /*# sourceMappingURL=styles.css.map */

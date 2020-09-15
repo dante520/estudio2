@@ -1,4 +1,4 @@
-$green:#66ff9c;
+$green:  #3ded37;
 $yellow:#f5ff66;
 $red: #ff4a4c;
 $blue: #43a1e6;
@@ -11,7 +11,6 @@ $white: #ffffff;
 }
 body{
     background-color: $green;
-    color: black ;
 }
 .familiar{
     flex: 1 150px;
@@ -45,4 +44,14 @@ nav{
 }
 .carousel{
     @include margin(30px);
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
 }
