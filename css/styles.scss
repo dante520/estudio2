@@ -43,3 +43,6 @@ nav{
     background-color: $yellow;
     @include margin(30px);
 }
+.carousel{
+    @include margin(30px);
+}
